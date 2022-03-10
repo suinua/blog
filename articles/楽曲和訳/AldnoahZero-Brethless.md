@@ -13,11 +13,12 @@ wash hands of:から手を切る
 望みのない繰り返しのために自分自身をかけて
 sell myself:身売り
 **May I have seen your face somewhere sometime?**
-どこかで君を見た気がするんだ
+どこかで君を見た気がする
 **You freeze my blood and spine**
-君は僕の動きをとめるようで
+君は僕をぞっとさせる
+freeze my blood:ぞっとさせる 
 **So freak me out**
-僕は怖いんだ
+だから怖いんだ
 freak out:怖がらせる
 **Like a look in a mirror**
 まるで鏡のようで
@@ -65,9 +66,7 @@ stoned:フラフラな、酔った
 **Cuz you make me feel**
 だって君は僕を
 **Breathless**
-窒息させるから
-
-`You freeze my blood and spine`と同じニュアンスだと思う。硬直させる、ハッとして動けなくなる、みたいな意味だと思う。
+息もつけないほどにするから(驚かせるから)
 
 **Share me your sadness that you keep in**
 君の隠してる悲しみを教えて
@@ -138,32 +137,16 @@ Yin and Yang:陰と陽
 窒息させるから
 
 **Right now**
-今
 **Burn your soul, neck or nothing**
-命がけで魂を燃やして
 **Burn it out 'til you're losing your reason**
-理由を失うまで燃やし続けて
 **Forget the stoned reason to drive it**
-フラフラな理由をわすれて、自分を掻き立てて
 **Just to scribe your existence**
-ただ存在意義を示して
 **Not a crime, your insistence**
-犯罪を犯さず無理をして
-**Die another day**
-まだ死なないで
 **So do I**
-だから僕は！
 **Burn my soul, all to nothing**
-十二分に(精一杯)魂をもやして
 **Burn it out, let me charge in your advance**
-魂を燃やし尽くして、？？
-**I'm watching for the chance to beat it
-打ち負かすチャンスを待ってるんだ！
+**I'm watching for the chance to beat it**
 **Even though my body's shaking**
-身震いしようと
 **I'll give it all, deadly bumping**
-すべてをかけてぶつかってやる
 **Cuz you make me feel**
-だって君は僕を
 **Breathless**
-窒息させるから
