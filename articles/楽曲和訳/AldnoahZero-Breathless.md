@@ -1,4 +1,4 @@
-song aldnoahZero
+楽曲 アルドノア・ゼロ 和訳
 
 # Breathless
 
