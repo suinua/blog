@@ -1,0 +1,13 @@
+file:///.dart_tool/package_config.json
+file:///common/model/article.dart
+file:///common/model/article_index.dart
+file:///common/model/folder.dart
+file:///common/model/tag.dart
+file:///common/view/folder_structure_menu_view.dart
+file:///github/home/.pub-cache/hosted/pub.dartlang.org/universal_html-2.0.8/lib/html.dart
+file:///usr/lib/dart/lib/_internal/dart2js_platform.dill
+file:///usr/lib/dart/lib/libraries.json
+file:///web/main.dart
+file:///web/pool/articles_pool.dart
+file:///web/pool/search_context_pool.dart
+file:///web/service/search_service.dart
